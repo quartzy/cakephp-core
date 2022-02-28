@@ -32,9 +32,6 @@
     "autoload": {
         "psr-4": {
             "Cake\\Core\\": "."
-        },
-        "files": [
-            "functions.php"
-        ]
+        }
     }
 }
